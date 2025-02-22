@@ -1,10 +1,9 @@
 - 👋 Hi, I’m sithila herath
 - 👀 I’m interested in designing 👀
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on it persons
-- 📫 How to reach me ig: @sithilx_heartz
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- 🌱 I’m studying computer science
+- 💞️ I’m looking to collaborate on IT persons
+- 📫 How to reach me linkedIn: @sithilx_heartz
+- 😄 Pronouns: he/him 
 
 <!---
 sithilxheartz/sithilxheartz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
