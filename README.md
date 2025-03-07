@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sithila herath
-- 👀 I’m interested in designing 👀
+- 👀 I’m interested in front-end developing 👀
 - 🌱 I’m studying computer science
-- 💞️ I’m looking to collaborate on IT persons
+- 💞️ I’m looking to collaborate on ITs
 - 📫 How to reach me linkedIn: @sithilx_heartz
 - 😄 Pronouns: he/him 
 
