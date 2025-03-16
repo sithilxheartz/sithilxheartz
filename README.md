@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋!<br>I am Sithila Herath from Sri Lanka</h2>
+<h1 align="center">Hi there! 👋</h1>
+
+###
+<h2 align="center">I am Sithila Herath from Sri Lanka</h2>
 
 ###
 
