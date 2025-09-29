@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Front-End & Mobile Application Developer</h1>
 
 ###
-<h2 align="center">I am Sithila Herath 🇱🇰</h2>
+<h2 align="center">BSc (Hons) Computer Science | Plymouth University, UK</h2>
 
 ###
 
-<p align="center">📚 Currently studying as a Computer Science  Undergraduate at Plymouth</p>
+<p align="center">📚 Currently studying as a   Undergraduate at Plymouth</p>
 
 ###
 
