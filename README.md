@@ -1,4 +1,4 @@
-<h1 align="center">Front-End & Mobile Application Developer</h1>
+<h1 align="center">Mobile Application & Front-End Developer</h1>
 
 ###
 <h2 align="center">BSc (Hons) Computer Science | University of Plymouth, UK</h2>
