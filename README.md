@@ -12,7 +12,7 @@ Mobile Application & Front-End Developer
 
 </h1>
 
-<br/>
+
 
 <div align="center">
 
@@ -22,7 +22,6 @@ Mobile Application & Front-End Developer
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
 
 </div>
-<br/>
 <div align="center">
  
  🔭 I'm currently working on **Flutter Projects**
