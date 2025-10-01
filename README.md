@@ -23,7 +23,7 @@
 
 </div>
  
- ⚡ Fun fact: **I transform coffee ☕ into code 💻 and machine learning models!**
+ **I transform coffee ☕ into code 💻 and machine learning models!**
  
  </div>
 
