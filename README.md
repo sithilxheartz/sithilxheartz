@@ -1,77 +1,121 @@
-# Mobile Application & Front-End Developer
-
-## About Me
-Computer Science graduate from the University of Plymouth with expertise in mobile application development and front-end technologies. Passionate about creating responsive, user-friendly applications with clean code and modern design principles.
-
-## 🎓 Education
-**BSc (Hons) Computer Science**  
-University of Plymouth, UK
-
-## 🛠 Technical Skills
-
-### Mobile Development
-- **Flutter** - Cross-platform mobile development
-- **Dart** - Primary programming language for Flutter
-
-### Front-End Development
-- **HTML5** - Semantic markup and structure
-- **CSS3** - Styling and responsive design
-
-### Programming Languages
-- **Python** - Scripting and backend development
-- **C** - Systems programming
-- **C#** - Object-oriented programming
-
-### Database
-- **MySQL** - Database management and queries
-
-## 📊 GitHub Analytics
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sithila+Herath!;" />
+</h1>
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithilxheartz&show_icons=true&theme=radical&hide_title=false&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithilxheartz&layout=compact&theme=radical&hide_border=true)
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-## 📫 Connect With Me
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  A passionate Mobile Application & Front-End Developer from Sri Lanka
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<br/>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithilxheartz/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sithilaherath-82403.web.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithilaherath1090@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
-  
-</div>
+ 
+ 🔭 I'm currently working on **Flutter Projects**
+ 
+ 🌱 I'm currently learning **Advanced Mobile Development**
+ 
+ ❓ Ask me about anything related to **Flutter, Dart, and Front-End technologies**
+ 
+ ⚡ Fun fact: **I debug with print statements!**
+ 
+ </div>
 
-## 💻 Technologies & Tools
-
-<div align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  
-</div>
-
----
+<br/>
 
 <div align="center">
-  
-  ⚡ **Open to new opportunities and collaborations**
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
+
+<br/>
+
+<div align="center">
+
+### 🚀 **Mobile Development**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+### 💻 **Frontend Development**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### 🛠 **Programming Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+### 🗄 **Database**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Analytics</b>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sithilxheartz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sithilxheartz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithilxheartz&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sithilxheartz">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sithilxheartz&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sithilxheartz">
+    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sithilxheartz&theme=react-dark&bg_color=20232a&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect!</b>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sithilaherath-82403.web.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sithilaherath1090@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>About Me</b>
+
+<br/>
+
+<div align="center">
+
+```javascript
+const sithila = {
+  pronouns: "He" | "Him",
+  code: ["Dart", "Python", "JavaScript", "HTML", "CSS", "C", "C#"],
+  tools: ["Flutter", "Firebase", "Git", "VS Code", "Android Studio"],
+  databases: ["MySQL", "Firestore"],
+  architecture: ["Mobile App Development", "Responsive Web Design"],
+  education: "BSc (Hons) Computer Science - University of Plymouth, UK",
+  currentFocus: "Building cross-platform mobile applications with Flutter",
+  funFact: "I can turn coffee into code ☕ → 💻"
+};
