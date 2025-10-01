@@ -7,13 +7,15 @@
 </div>
 
 <h1 align="center">
-
-Mobile Application & Front-End Developer
-
+  Mobile Application & Front-End Developer
 </h1>
 
+<br/>
 
-
+<div align="center">
+ 
+ 🎓 **Recent Graduate** with BSc (Hons) Computer Science from University of Plymouth, UK
+ 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
@@ -22,19 +24,12 @@ Mobile Application & Front-End Developer
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
 
 </div>
-<div align="center">
  
- 🔭 I'm currently working on **Flutter Projects**
- 
- 🌱 I'm currently learning **Advanced Mobile Development**
- 
- ❓ Ask me about anything related to **Flutter, Dart, and Front-End technologies**
- 
- ⚡ Fun fact: **I debug with print statements!**
+ ⚡ Fun fact: **I transform coffee ☕ into code 💻 and machine learning models!**
  
  </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -46,21 +41,13 @@ Mobile Application & Front-End Developer
 
 <div align="center">
 
-### 🚀 **Mobile Development**
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-### 💻 **Frontend Development**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### 🛠 **Programming Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-### 🗄 **Database**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+| Category | Technologies |
+|----------|--------------|
+| **📱 Mobile Development** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> |
+| **🌐 Frontend Development** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **🔥 Backend & Database** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **🤖 Machine Learning** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
+| **🛠 Programming Languages** | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> |
 
 </div>
 
@@ -87,3 +74,12 @@ Mobile Application & Front-End Developer
 
 <br/>
 
+
+<div align="center">
+
+### 💝 **Thanks for visiting my profile!**
+### 🎯 **Open to new opportunities and collaborations**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+</div>
