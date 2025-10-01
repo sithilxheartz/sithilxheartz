@@ -5,6 +5,15 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+
+<h1 align="center">
+
+Mobile Application & Front-End Developer
+
+</h1>
+
+<br/>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
@@ -13,14 +22,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
 
 </div>
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  A passionate Mobile Application & Front-End Developer from Sri Lanka
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <br/>
-
 <div align="center">
  
  🔭 I'm currently working on **Flutter Projects**
