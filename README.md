@@ -5,7 +5,14 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sithilaherath-82403.web.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sithilaherath1090@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
+
+</div>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   A passionate Mobile Application & Front-End Developer from Sri Lanka
@@ -91,31 +98,8 @@
 
 <br/>
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sithilaherath-82403.web.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sithilaherath1090@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
 
-</div>
 
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>About Me</b>
-
-<br/>
 
 <div align="center">
-
-```javascript
-const sithila = {
-  pronouns: "He" | "Him",
-  code: ["Dart", "Python", "JavaScript", "HTML", "CSS", "C", "C#"],
-  tools: ["Flutter", "Firebase", "Git", "VS Code", "Android Studio"],
-  databases: ["MySQL", "Firestore"],
-  architecture: ["Mobile App Development", "Responsive Web Design"],
-  education: "BSc (Hons) Computer Science - University of Plymouth, UK",
-  currentFocus: "Building cross-platform mobile applications with Flutter",
-  funFact: "I can turn coffee into code ☕ → 💻"
-};
