@@ -10,11 +10,9 @@
   Mobile Application & Front-End Developer
 </h1>
 
-<br/>
-
 <div align="center">
  <h2>
- 🎓 Recent Graduate with BSc (Hons) Computer Science from University of Plymouth, UK
+ 🎓 BSc (Hons) Computer Science from University of Plymouth, UK
  </h2>
 <div align="center">
 
