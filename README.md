@@ -86,20 +86,3 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/sithilxheartz">
-    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sithilxheartz&theme=react-dark&bg_color=20232a&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Let's Connect!</b>
-
-<br/>
-
-
-
-
-
-<div align="center">
