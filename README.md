@@ -23,8 +23,6 @@
 
 </div>
  
- **I transform coffee ☕ into code!**
- 
  </div>
 
 
