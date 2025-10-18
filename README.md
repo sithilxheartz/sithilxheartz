@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sithila+B+Herath!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sithila+B+Herath!;" />
 </h1>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
-<h1 align="center">
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">
   Mobile Application & Front-End Developer
 </h1>
-<h3 align="center">
+<h3 align="center" style="font-family: 'Poppins', sans-serif;">
   AI & Machine Learning Researcher
 </h3>
 
-<div align="center">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
  <h3>
  🎓 BSc (Hons) Computer Science from University of Plymouth in UK
  </h3>
@@ -69,6 +69,3 @@
 </div>
 
 <br/>
-
-
-<div align="center">
