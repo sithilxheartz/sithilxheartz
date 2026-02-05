@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  Mobile Application & Front-End Developer
+  AI/ML Research Student & Developer
 </h1>
 <h3 align="center">
   AI & Machine Learning Researcher
