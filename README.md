@@ -10,7 +10,7 @@
   AI/ML Research Student & Developer
 </h1>
 <h3 align="center">
-  AI & Machine Learning Researcher
+  Gen AI + AI Agentic Systems
 </h3>
 
 <div align="center">
