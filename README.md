@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  AI/ML Research Student & Developer
+  AI/ML Researcher & Developer
 </h1>
 <h3 align="center">
   Gen AI + AI Agentic Systems
