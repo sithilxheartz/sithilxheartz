@@ -19,10 +19,8 @@
  </h3>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?logo=google-chrome&logoColor=white&style=for-the-badge)](https://sithilaherath-82403.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sithilxheartz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sithilaherath1090@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/sithilx_heartz?igsh=NmV6bnU5eDB1OTV6)
 
 </div>
  
